@@ -2,11 +2,11 @@
 ## Hello, my name is Arthur Felipe, I'm a student of Analysis and Systems Development. 
 
 <div align="center">
-  <a href="https://github.com/felipe-recchia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-recchia&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe-recchia&layout=compact&langs_count=8&card_width=320&theme=dark"/>
+  <a href="https://github.com/ViniciusAcordiSoethe">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-recchia&show_icons=true&theme=dark&include_all_commits=true&count_private=true&lang=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-recchia&layout=compact&langs_count=7&theme=dark&lang=pt-br"/>
 </div>
-
+    
 ##
 
 <div style="display: inline_block"><br>
