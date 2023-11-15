@@ -1,8 +1,6 @@
 ## Olá, me chamo Arthur Felipe, sou estudante de Análise e Desenvolvimento de Sistemas.
 ## Hello, my name is Arthur Felipe, I'm a student of Analysis and Systems Development. 
 
-##
-
 <div align="center">
   <a href="https://github.com/felipe-recchia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipe-recchia&show_icons=true&theme=dark"/>
