@@ -1,4 +1,4 @@
-## Olá, me chamo Arthur Felipe
+## Olá, me chamo Arthur Felipe, sou estudante de Análise e Desenvolvimento de Sistemas.
 
 <div align="center">
   <a href="https://github.com/felipe-recchia">
