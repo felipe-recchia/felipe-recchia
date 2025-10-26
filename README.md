@@ -19,6 +19,7 @@
   <img align="center" alt="Felipe-php" height="30" width="40" src="https://skillicons.dev/icons?i=git">
   <img align="center" alt="Felipe-php" height="30" width="40" src="https://skillicons.dev/icons?i=postgres">
   <img align="center" alt="Felipe-php" height="30" width="40" src="https://skillicons.dev/icons?i=postman">
+  <img align="center" alt="Felipe-php" height="30" width="40" src="https://skillicons.dev/icons?i=java">
 </div>
   
   ##
